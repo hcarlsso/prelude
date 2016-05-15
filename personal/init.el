@@ -15,3 +15,6 @@
 
 
 ;; (provide 'init)\n;;; init.el ends here
+                                        ; Dictionnary
+
+(setq ispell-personal-dictionary "~/.emacs.d/personal/.aspell.en.pws")
