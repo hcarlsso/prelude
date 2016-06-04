@@ -43,3 +43,13 @@
 ;; Setting up writegood-mode
 (require 'writegood-mode)
 (global-set-key "\C-cg" 'writegood-mode)
+
+(global-set-key (kbd "C-;") 'comment-dwim) ; C-;
+
+
+;;
+(pdf-tools-install)
+
+
+(provide 'init)
+;;; init.el ends here
