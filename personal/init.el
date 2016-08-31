@@ -51,5 +51,10 @@
 (pdf-tools-install)
 
 
+;; ESS
+(add-to-list 'load-path "~/.emacs.d/personal/ESS/lisp")
+(load "ess-site")
+
+
 (provide 'init)
 ;;; init.el ends here

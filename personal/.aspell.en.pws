@@ -1,11 +1,19 @@
-personal_ws-1.1 en 16 
+personal_ws-1.1 en 26 
 diagonalizable
+Rao
+IMU
+RMSE
+IMUs
 accelerometer
 diagonalizes
+Cramer
 refactoring
+Refactored
+dR
 Carlsson
 parameterized
 covariances
+covariance
 eigenvector
 differentiable
 nonnegative
@@ -14,4 +22,6 @@ accelerometers
 Hakan
 Frobenius
 invertible
+icosahedron
+translational
 discretization
