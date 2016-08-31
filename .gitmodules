@@ -1,3 +1,6 @@
 [submodule "personal/src"]
 	path = personal/matlab-emacs
 	url = git://git.code.sf.net/p/matlab-emacs/src
+[submodule "personal/ESS"]
+	path = personal/ESS
+	url = https://github.com/emacs-ess/ESS.git
