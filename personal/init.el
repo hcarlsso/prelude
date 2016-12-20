@@ -56,5 +56,8 @@
 (load "ess-site")
 
 
+(setq package-archives '(("gnu" . "http://elpa.gnu.org/packages/")
+                         ("melpa" . "http://melpa.org/packages/")))
+
 (provide 'init)
 ;;; init.el ends here
