@@ -4,3 +4,6 @@
 [submodule "personal/ESS"]
 	path = personal/ESS
 	url = https://github.com/emacs-ess/ESS.git
+[submodule "personal/writegood-mode"]
+	path = personal/writegood-mode
+	url = https://github.com/bnbeckwith/writegood-mode.git

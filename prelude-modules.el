@@ -36,3 +36,6 @@
 ;; (require 'prelude-web) ;; Emacs mode for web templates
 (require 'prelude-xml)
 (require 'prelude-yaml)
+;;; Code:
+(provide 'prelude-modules)
+;;; prelude-modules.el ends here
