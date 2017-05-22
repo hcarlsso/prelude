@@ -1,8 +1,16 @@
-personal_ws-1.1 en 26 
+personal_ws-1.1 en 41 
 diagonalizable
 Rao
 IMU
+Scalability
 RMSE
+vectorized
+notational
+iteratively
+centre
+donut
+mse
+capacitive
 IMUs
 accelerometer
 diagonalizes
@@ -12,15 +20,22 @@ Refactored
 dR
 Carlsson
 parameterized
+underdetermined
+observability
 covariances
 covariance
 eigenvector
+quadratically
 differentiable
 nonnegative
+annulus
 eigenvectors
 accelerometers
+LHP
+orthogonalization
 Hakan
 Frobenius
+Lyapunov
 invertible
 icosahedron
 translational
