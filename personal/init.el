@@ -79,7 +79,20 @@
 
 ;; ROS
 (add-to-list 'load-path "/opt/ros/indigo/share/emacs/site-lisp")
-(require 'rosemacs-config)
+;;(require 'rosemacs-config)
+
+;;(require 'json-mode)
+
+
+;; Use ipython
+;(when (executable-find "ipython")
+;  (setq python-shell-interpreter "ipython")
+
+
+(defun ipython ()
+    (interactive)
+    (term "ipython"))
+
 
 (provide 'init)
 ;;; init.el ends here
