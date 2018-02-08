@@ -93,6 +93,12 @@
     (interactive)
     (term "ipython"))
 
+;; PDDL mode
+(add-to-list 'load-path "~/.emacs.d/personal")
+(require 'pddl-mode)
+(add-to-list 'auto-mode-alist
+             '("\\.pddl" . PDDL-mode))
+
 
 (provide 'init)
 ;;; init.el ends here

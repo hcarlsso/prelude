@@ -1,4 +1,4 @@
-personal_ws-1.1 en 56 
+personal_ws-1.1 en 59 
 quadratically
 dimensionality
 sinusoid
@@ -12,6 +12,7 @@ iteratively
 Refactored
 differentiable
 WGN
+linearized
 diagonalizable
 measureable
 specular
@@ -22,6 +23,7 @@ Lyapunov
 discretization
 orthonormal
 accelerometer
+scalable
 dR
 LHP
 eigenvectors
@@ -42,6 +44,7 @@ icosahedron
 vectorized
 detectability
 accelerometers
+microservice
 centre
 diagonalizes
 translational
