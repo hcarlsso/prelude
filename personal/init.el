@@ -61,5 +61,8 @@
 (add-to-list 'load-path "/opt/ros/indigo/share/emacs/site-lisp")
 (require 'rosemacs-config)
 
+(add-to-list 'auto-mode-alist '("\\.world\\'" . xml-mode))
+(add-to-list 'auto-mode-alist '("\\.rviz\\'" . yaml-mode))
+
 (provide 'init)
 ;;; init.el ends here
