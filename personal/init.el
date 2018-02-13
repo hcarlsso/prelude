@@ -99,6 +99,14 @@
 (add-to-list 'auto-mode-alist
              '("\\.pddl" . PDDL-mode))
 
+;; Modify prompt in eshell
+
+(setq eshell-prompt-function
+      (lambda () (concat (car (last (split-string (eshell/pwd) "/"))) " $ "))
+      )
+
+
+
 
 (provide 'init)
 ;;; init.el ends here
