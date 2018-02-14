@@ -81,6 +81,10 @@
 (add-to-list 'load-path "/opt/ros/indigo/share/emacs/site-lisp")
 ;;(require 'rosemacs-config)
 
+;; setup files ending in “.launch” to open in xml-mode
+(add-to-list 'auto-mode-alist '("\\.launch\\'" . xml-mode))
+
+
 ;;(require 'json-mode)
 
 
