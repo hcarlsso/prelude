@@ -1,4 +1,4 @@
-[submodule "personal/src"]
+[submodule "personal/matlab-emacs"]
 	path = personal/matlab-emacs
 	url = git://git.code.sf.net/p/matlab-emacs/src
 [submodule "personal/ESS"]
