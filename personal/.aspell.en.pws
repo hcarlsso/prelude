@@ -1,4 +1,4 @@
-personal_ws-1.1 en 79 
+personal_ws-1.1 en 85 
 quadratically
 dimensionality
 sinusoid
@@ -54,10 +54,13 @@ resistive
 Kalman
 extremum
 IMUs
+KTH
+inertially
 priori
 nanometer
 icosahedron
 vectorized
+identifiability
 detectability
 accelerometers
 discretized
@@ -74,7 +77,10 @@ FLIR
 parallelize
 notational
 IMU
+misalignments
 nonnegative
+linearization
 donut
 RMSE
 observability
+Toeplitz

@@ -101,6 +101,9 @@
       (lambda () (concat (car (last (split-string (eshell/pwd) "/"))) " $ "))
       )
 
+(require 'julia-repl)
+(add-hook 'julia-mode-hook 'julia-repl-mode) ;; always use minor mode
+
 
 
 
